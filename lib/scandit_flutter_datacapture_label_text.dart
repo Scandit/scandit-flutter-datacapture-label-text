@@ -1,0 +1,1 @@
+library scandit_flutter_datacapture_label_text;
