@@ -1,6 +1,6 @@
 name: scandit_flutter_datacapture_label_text
 description: This plugin adds the Aamva barcode verification capabilities of the Scandit Data Capture SDK.
-version: 7.2.2
+version: 7.3.0
 homepage: https://scandit.com
 
 environment:
