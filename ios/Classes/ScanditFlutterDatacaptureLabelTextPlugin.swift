@@ -1,9 +1,9 @@
 import Flutter
 import UIKit
 
-public class ScanditFlutterDataCaptureLabelTextPlugin: NSObject, FlutterPlugin {
+public class ScanditFlutterDatacaptureLabelTextPlugin: NSObject, FlutterPlugin {
     public static func register(with registrar: FlutterPluginRegistrar) {
-        let instance = ScanditFlutterDataCaptureLabelTextPlugin()
+        let instance = ScanditFlutterDatacaptureLabelTextPlugin()
         registrar.publish(instance)
     }
 }
